@@ -3,7 +3,7 @@ backend-tests/mochawesome-report/assets/
 backend-tests/cypress/videos/
 hotel-test/node_modules/
 Hotel Tester Vue.postman_collection.json
-api-tes-cases-v1a.ods
-api-tes-cases-v1b.ods
-api-tes-cases-v1c.ods
-api-tes-cases-v1d.ods
+api-test-cases-v1a.ods
+api-test-cases-v1b.ods
+api-test-cases-v1c.ods
+api-test-cases-v1d.ods
